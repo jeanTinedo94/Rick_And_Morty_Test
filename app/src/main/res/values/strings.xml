@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rick_And_Morty_Test</string>
+    <string name="last_known">Last known location:</string>
+    <string name="origin">Origin:</string>
+    <string name="first_seen">First seen in:</string>
+    <string name="episodes">Episodes</string>
+</resources>
